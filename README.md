@@ -1,4 +1,4 @@
-## HELLO WORD. Ola, sou o victor Ortelan👋
+## HELLO WORLD. Ola, sou o victor Ortelan👋
 
 - 🌱 Estudando : java
 - 📫 Contato: jvortelan@gmail.com
