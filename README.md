@@ -28,4 +28,4 @@
 <a href = "jvortelan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 <a href = "https://discord.com/invite/xzpZR7Zh"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/> </a>
 <a href = "https://www.instagram.com/viktorortelan?igsh=MTE4bWFyNjVkN2ZzZA=="> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href = "www.linkedin.com/in/joaovictorortelandonascimento"> <img src="https://www.linkedin.com/in/joaovictorortelandonascimento/"/> </a>
+<a href = "https://www.linkedin.com/in/joaovictorortelandonascimento/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
