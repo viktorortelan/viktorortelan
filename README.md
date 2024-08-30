@@ -6,7 +6,7 @@
 ##
 <div>
   <a href="https://viktorortelan">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=viktorortelan&show=reviews,icons=true&theme=tokyonight&discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=viktorortelan&show=reviews,icons=true&theme=tokyonight&discussions_started,discussions_answered,prs_merged,prs_merged_percentage" hspace="15"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorortelan&layout=compact&theme=tokyonight"/>
 </div>
     
