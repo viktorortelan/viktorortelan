@@ -19,7 +19,7 @@
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
     <img height="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />   
-    <img height="150" align="right" src="https://media.discordapp.net/attachments/1253705153178239130/1260146331696234556/4884785.jpg?ex=668e4239&is=668cf0b9&hm=d1de27639307c7fb4d68b9c1957bb2206a3bc7277d1636ca9e34cc4147a91262&=&format=webp&width=710&height=473" />   
+       
     
 </div>
 
