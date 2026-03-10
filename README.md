@@ -1,10 +1,10 @@
 # João Victor Ortelan
 
-🎓 Estudante de Ciência da Computação (3º semestre)
+🎓 Computer Science Student (3rd semester)
 
-💻 Desenvolvedor Full Stack
+💻 Full Stack Developer
 
-Tecnologias principais:
+## Technologies
 
 - JavaScript
 - Node.js
@@ -14,15 +14,21 @@ Tecnologias principais:
 - CSS
 - Python
 
-Experiência em:
+## Experience
 
-- Desenvolvimento de sistemas web
-- APIs
-- Banco de dados
-- Suporte de sistemas
-- Análise de erros em sistemas
+- Web system development
+- REST APIs
+- Database management
+- System support
+- System error analysis
 
-📫 Contato:
+## Projects
 
-LinkedIn: www.linkedin.com/in/joaovictorortelandonascimento
+- Real estate management system
+- QR code generator for events
+- Web APIs with Node.js
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/joaovictorortelandonascimento  
 Email: jvortelan@gmail.com
